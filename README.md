@@ -10,6 +10,11 @@ All datasets available through the Census data api can be queried at different g
 
 ![](https://www.census.gov/content/dam/Census/newsroom/blogs/2014/07/understanding-geographic-relationships-counties-places-tracts-and-more/geo1.jpg)
 
+https://www.census.gov/newsroom/blogs/random-samplings/2014/07/understanding-geographic-relationships-counties-places-tracts-and-more.html
+
+https://www.caliper.com/maptitude/census2000data/summarylevels.htm
+
+
 ## Datasets
 
 
